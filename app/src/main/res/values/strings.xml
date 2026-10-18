@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VangtiChai</string>
+
+    <!-- Amount display -->
+    <string name="taka_label">Taka:</string>
+    <string name="initial_amount">0</string>
+
+    <!-- Note denominations -->
+    <string name="note_500">500: 0</string>
+    <string name="note_100">100: 0</string>
+    <string name="note_50">50: 0</string>
+    <string name="note_20">20: 0</string>
+    <string name="note_10">10: 0</string>
+    <string name="note_5">5: 0</string>
+    <string name="note_2">2: 0</string>
+    <string name="note_1">1: 0</string>
+
+    <!-- Numeric keypad -->
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_clear">CLEAR</string>
+
+</resources>

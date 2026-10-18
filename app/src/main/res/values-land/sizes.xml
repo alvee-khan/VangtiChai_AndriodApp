@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Phone landscape spacing -->
+    <dimen name="screen_padding">10dp</dimen>
+    <dimen name="amount_top_margin">10dp</dimen>
+    <dimen name="content_top_margin">12dp</dimen>
+    <dimen name="amount_label_gap">4dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="amount_text_size">18sp</dimen>
+    <dimen name="note_text_size">14sp</dimen>
+    <dimen name="key_text_size">13sp</dimen>
+
+    <!-- Notes -->
+    <dimen name="note_row_height">40dp</dimen>
+
+    <!-- Keypad -->
+    <dimen name="key_height">48dp</dimen>
+    <dimen name="key_gap">4dp</dimen>
+
+</resources>

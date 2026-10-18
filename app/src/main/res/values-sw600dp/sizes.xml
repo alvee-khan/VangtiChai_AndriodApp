@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tablet spacing -->
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="amount_top_margin">48dp</dimen>
+    <dimen name="content_top_margin">48dp</dimen>
+    <dimen name="amount_label_gap">8dp</dimen>
+
+    <!-- Larger tablet text -->
+    <dimen name="amount_text_size">28sp</dimen>
+    <dimen name="note_text_size">22sp</dimen>
+    <dimen name="key_text_size">20sp</dimen>
+
+    <!-- Note table -->
+    <dimen name="note_row_height">56dp</dimen>
+
+    <!-- Keypad -->
+    <dimen name="key_height">76dp</dimen>
+    <dimen name="key_gap">8dp</dimen>
+
+</resources>

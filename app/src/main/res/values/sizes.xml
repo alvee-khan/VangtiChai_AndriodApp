@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Screen spacing -->
+    <dimen name="screen_padding">12dp</dimen>
+    <dimen name="amount_top_margin">32dp</dimen>
+    <dimen name="content_top_margin">32dp</dimen>
+    <dimen name="amount_label_gap">4dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="amount_text_size">20sp</dimen>
+    <dimen name="note_text_size">16sp</dimen>
+    <dimen name="key_text_size">14sp</dimen>
+
+    <!-- Note table -->
+    <dimen name="note_row_height">36dp</dimen>
+
+    <!-- Numeric keypad -->
+    <dimen name="key_height">56dp</dimen>
+    <dimen name="key_gap">4dp</dimen>
+
+</resources>
